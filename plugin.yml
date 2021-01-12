@@ -1,0 +1,11 @@
+main: marcelo.plugin.Main 
+name: Simple DeathSwap XZM
+version: 1.0
+author: XZeromarx
+description: A simple death swap plugin to be played for 2 players
+commands:
+    mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: myplugin.mycommand
+    permission-message: You don't have the myplugin.mycommand permission.
